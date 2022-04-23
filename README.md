@@ -1,6 +1,7 @@
 # Books
 
 - 2020 | [Medical Device Cybersecurity for Engineers and Manufacturers](https://ieeexplore.ieee.org/document/9220003)
+- 2020 | [The Safety Critical Systems Handbook](https://www.elsevier.com/books/the-safety-critical-systems-handbook/smith/978-0-12-820258-6)
 - 2018 | [Engineering High Quality Medical Software: Regulations, standards, methodologies and tools for certification](https://digital-library.theiet.org/content/books/he/pbhe012e)
 
 # Articles
